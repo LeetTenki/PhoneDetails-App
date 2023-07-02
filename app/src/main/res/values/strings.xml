@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone Details</string>
+    <string name="your_phone_s_information">Your Phone\'s Information</string>
+    <string name="get_information">GET INFORMATION</string>
+</resources>
